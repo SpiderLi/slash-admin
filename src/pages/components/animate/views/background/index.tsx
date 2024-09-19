@@ -25,7 +25,7 @@ export default function BackgroundView() {
         </Col>
       </Row>
       <Row justify="space-between">
-        <Col xs={24} md={18}>
+        <Col xs={18} md={18}>
           <ContainerView variant={selectedVariant} />
         </Col>
         <Col xs={24} md={5}>
