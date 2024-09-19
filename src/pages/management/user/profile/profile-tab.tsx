@@ -193,7 +193,7 @@ export default function ProfileTab() {
 
         <Col span={24} md={12} lg={16}>
           <Card className="flex-col !items-start">
-            <Typography.Title level={5}>Activity Timeline</Typography.Title>
+            <Typography.Title level={5}>Activity Timeline11111</Typography.Title>
             <Timeline
               className="!mt-4 w-full"
               items={[
@@ -202,7 +202,7 @@ export default function ProfileTab() {
                   children: (
                     <div className="flex flex-col">
                       <div className="flex items-center justify-between">
-                        <Typography.Text strong>8 Invoices have been paid</Typography.Text>
+                        <Typography.Text strong>8 Invoices have been paid111111</Typography.Text>
                         <div className="opacity-50">Wednesday</div>
                       </div>
                       <Typography.Text type="secondary" className="text-xs">
