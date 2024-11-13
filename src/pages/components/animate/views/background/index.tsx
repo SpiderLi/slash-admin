@@ -20,7 +20,7 @@ export default function BackgroundView() {
   return (
     <Card>
       <Row>
-        <Col xs={24} md={18}>
+        <Col xs={23} md={18}>
           <Toolbar onRefresh={onRefresh} />
         </Col>
       </Row>
